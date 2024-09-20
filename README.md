@@ -12,4 +12,4 @@ Its versatility makes it popular for writing documentation, blogs, and even emai
 
 Additionally, many platforms, including GitHub and Reddit, support Markdown, enabling seamless content creation and sharing across various applications.
 
-With project using Markdown and Jupyter Notebook in Visual Studio Code
+With a project using Markdown and Jupyter Notebook in Visual Studio Code
